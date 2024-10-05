@@ -1,0 +1,5 @@
+Name: lingmo-sdk-soundeffects
+Description: kysdk-soundeffects development library
+Version: 2.2.1.0
+Libs: -lkysdk-soundeffects
+Cflags: -I/usr/include/kysdk/desktop/

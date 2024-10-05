@@ -1,0 +1,5 @@
+Name: lingmo-sdk-notification
+Description: kysdk notification development library
+Version: 1.2.0
+Libs: -lkysdk-notification
+Cflags: -I/usr/include/kysdk/desktop/
